@@ -18,3 +18,12 @@ Here is one possible sample run. Green text was entered by the user, and the blu
 input.
 
 ![image](https://user-images.githubusercontent.com/86201781/128751677-96f718d6-e598-413a-8a1b-d82707285f27.png)
+
+## How to use
+
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Projec_pikachu_gengar.py;
+- The program will open a command console which will ask you to input an e-mail address.
