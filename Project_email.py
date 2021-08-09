@@ -1,4 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
 email = input("Enter your email address: ")
 at = email.find("@")
 username = email[0:at]
